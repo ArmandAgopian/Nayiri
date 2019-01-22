@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nayiri</string>
+
+    <string name="title_am">Am</string>
+    <string name="title_amen">Am→En</string>
+    <string name="title_enam">En→Am</string>
+    <string name="title_amfr">Am→Fr</string>
+    <string name="title_fram">Fr→Am</string>
+    <string name="search">Search</string>
+    <string name="locale_default">System Default</string>
+    <string name="locale_armenian">Armenian</string>
+    <string name="locale_english">English</string>
+    <string name="locale_french">French</string>
+    <string name="locale_german">German</string>
+    <string name="locale_russian">Russian</string>
+    <string name="locale_turkish">Turkish</string>
+</resources>
